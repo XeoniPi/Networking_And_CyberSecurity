@@ -62,8 +62,8 @@ Networking_And_CyberSecurity/
 
 ### Windows Server
 - [x] Install Windows Server 2022
-- [ ] Active Directory
-- [ ] DNS
+- [x] Active Directory
+- [x] DNS
 - [ ] DHCP
 - [ ] Group Policy
 - [ ] File Server
