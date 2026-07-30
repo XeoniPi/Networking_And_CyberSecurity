@@ -64,10 +64,10 @@ Networking_And_CyberSecurity/
 - [x] Install Windows Server 2022
 - [x] Active Directory
 - [x] DNS
-- [ ] DHCP
-- [ ] Group Policy
-- [ ] File Server
-- [ ] IIS
+- [x] DHCP
+- [x] Group Policy
+- [x] File Server
+- [x] IIS
 - [ ] WSUS
 
 ### Linux
